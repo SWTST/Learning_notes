@@ -18,8 +18,6 @@ This repo contains my notes, code examples, and practice projects as I learn ste
 
 ### Backend & Databases
 
-- [ ] **SQL Basics**
-- [ ] **Intermediate SQL (Joins, Subqueries, Indexes)**
 - [ ] **Working with APIs**
 - [ ] **Node.js Basics**
 - [ ] **Express.js**
